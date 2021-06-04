@@ -45,13 +45,7 @@ You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]]
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Smithienious/Smithienious">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smithienious&hide=tex,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Smithienious/Smithienious">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smithienious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Smithienious's GitHub Stats" />
-</a>
-<a href="https://github.com/Smithienious/OCR-Docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Smithienious&repo=OCR-Docker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <details><summary>Counter(s)</summary>
